@@ -24,11 +24,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-### 😺 Hello from the Waving Cat!
+### 🎨 Beautiful Contribution Graph:
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Waving Cat" width="300"/>
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1A1B27&color=ffffff&line=00E676&point=FFAB00&area=true&hide_border=true)
 
 ### 🔥 Animated SVG Widgets:
 Here's a unique touch to make your profile stand out—animated widgets related to coding:
