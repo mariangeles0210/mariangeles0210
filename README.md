@@ -27,26 +27,28 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### 🎨 Dynamic Contribution Graph:
+Check out my contribution graph with an animated twist! It's not just static but moves dynamically to represent my active contributions.
 
-### ⚡ Recent Activity:
-- 🌟 **Contributing to open-source projects** related to **Machine Learning**
-- 🎯 **Working on personal projects** that involve **Data Analysis and Predictive Modeling**
-- 🛠️ Experimenting with advanced tools like **PyTorch, TensorFlow, and Pandas** for data-driven insights
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true&custom_title=My%20Dynamic%20Contribution%20Graph)
 
-### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 🔥 Animated SVG Widgets:
+Here's a unique touch to make your profile stand out—animated widgets related to coding:
 
-### 💡 Fun Facts:
-- 🧠 I'm fascinated by **Quantum Computing** and how it intersects with AI
-- 🌍 I love exploring how **AI can contribute to sustainable development goals**
-- 🛠️ I'm constantly improving my skills by working on **Kaggle competitions** and participating in **hackathons**
+- **Real-Time Code Typing Animation**: Shows me typing code in real-time (live code editor feel).
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!+I+code+with+passion;Data+Science%2C+ML+%26+AI+enthusiast;Always+learning+and+growing!)
 
-### 🚀 Contribution Graph:
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
-
-### 🌟 Fun Widgets:
 - **Visitors**: ![](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-- **Streak Stats**: [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  
+- **Animated Progress Bars**:
+  - Python: ![Python](https://progress-bar.dev/90/?title=Python&color=yellowgreen)
+  - R: ![R](https://progress-bar.dev/80/?title=R&color=yellowgreen)
+
+### 🧠 Projects Involving AI and Data Science:
+- 📈 **Machine Learning Pipeline**: An end-to-end machine learning project involving data preprocessing, model building, and evaluation using **Scikit-Learn** and **Pandas**.
+- 🔍 **Deep Learning with PyTorch**: Developing a neural network from scratch to recognize hand-written digits using **PyTorch**.
+  
+### ⚡ GitHub Stats and Streaks:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)
