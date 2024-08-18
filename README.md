@@ -1,44 +1,15 @@
-# Hi there! I'm [Your Name] 👋
+<h1 align="center">Hi 👋, I'm M.A.M.G</h1>
+<h3 align="center">A final year Data Science and Engineering student at UC3M</h3>
 
-### 👨‍💻 About Me:
-- 🎓 I'm a **Final Year Data Science and Engineering** student at **UC3M**
-- 💼 I completed a 9-month internship at **Vodafone** as a **Digital & IT Intern**
-- 🌟 Currently, I work as a **Specialist** at **LODCoreMadrid**, an UC3M cátedra
-- 🤖 I'm passionate about **Machine Learning and IA**
+- 🔭 I’m currently working on [LODCoreMadrid, focused on linked and open data](https://lodcoremadrid.es/)
 
-### 🛠️ Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
-![R2OpenBUGS](https://img.shields.io/badge/-R2OpenBUGS-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
-![MCMC](https://img.shields.io/badge/-MCMC-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)&nbsp;
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mariamagro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariamagro" height="30" width="40" /></a>
+<a href="https://kaggle.com/asdarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asdarr" height="30" width="40" /></a>
+</p>
 
-### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 🤖 Pixel Art Robot Animation:
-
-![GitHub Contribution Robot](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-robot.svg)
-
-### 🔥 Animated SVG Widgets:
-Here's a unique touch to make your profile stand out—animated widgets related to coding:
-
-- **Real-Time Code Typing Animation**: Shows me typing code in real-time (live code editor feel).
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!+I+code+with+passion;Data+Science%2C+ML+%26+AI+enthusiast;Always+learning+and+growing!)
-  
-### 🧠 Projects Involving AI and Data Science:
-- 📈 **Machine Learning Pipeline**: An end-to-end machine learning project involving data preprocessing, model building, and evaluation using **Scikit-Learn** and **Pandas**.
-- 🔍 **Deep Learning with PyTorch**: Developing a neural network from scratch to recognize hand-written digits using **PyTorch**.
-  
-### ⚡ GitHub Stats and Streaks:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariangeles0210&show_icons=true&locale=en&layout=compact" alt="mariangeles0210" /></p>
