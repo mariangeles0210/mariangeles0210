@@ -24,9 +24,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-### 🎨 Beautiful Contribution Graph:
+### 🐙 Octocat Contribution Animation:
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1A1B27&color=ffffff&line=00E676&point=FFAB00&area=true&hide_border=true)
+![GitHub Contribution Octocat](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-octocat.svg)
+
 
 ### 🔥 Animated SVG Widgets:
 Here's a unique touch to make your profile stand out—animated widgets related to coding:
