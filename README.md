@@ -24,10 +24,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-### 🐙 Octocat Contribution Animation:
+### 🤖 Pixel Art Robot Animation:
 
-![GitHub Contribution Octocat](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-octocat.svg)
-
+![GitHub Contribution Robot](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-robot.svg)
 
 ### 🔥 Animated SVG Widgets:
 Here's a unique touch to make your profile stand out—animated widgets related to coding:
